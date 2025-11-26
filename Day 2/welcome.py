@@ -3,4 +3,4 @@ b=20
 if(a<b):
     print("welcome to full stack development")
 else:
-    print("bye")
+    print("good")
